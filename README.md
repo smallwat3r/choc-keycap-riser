@@ -1,6 +1,6 @@
 # Choc keycap raisers
 
-5 mm flat raisers for Choc keycaps. Those raisers help achieve a more natural hand position.
+5 mm flat raisers for Choc keycaps. I like to place them on the index finger and thumbs, it help achieve a more natural hand position.
 
 ![mockup](./images/mockup.png)
 ![mounted](./images/mounted.png)
